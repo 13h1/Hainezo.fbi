@@ -1,2 +1,2 @@
-# Hainezo.fbi
-Bio.
+# Just a shitty ahhh bio 
+
