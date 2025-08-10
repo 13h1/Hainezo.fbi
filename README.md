@@ -1,2 +1,2 @@
-# Just a shitty ahhh bio 
+# Just a dumbass bio made with heart
 
