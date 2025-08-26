@@ -1,4 +1,4 @@
-let hasUserInteracted = false;
+Flet hasUserInteracted = false;
 
 function initMedia() {
   console.log("initMedia called");
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "FactureMobile";
+  const name = "Boulevard Des Pleurs";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bioMessages = [
     "\"Enzo your so weird why would you always stay alone ?\"",
     "\"LIBERER BRITNEY !!\"",
-    "Add on discord : FactureMobile"
+    "Add on discord : boulevarddespleurs"
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -669,4 +669,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
